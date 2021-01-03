@@ -32,6 +32,9 @@ PkgConfigBR:
 Requires:
   - sailfishsilica-qt5 >= 0.10.9
   - qtmozembed-qt5
+  - sailfish-components-webview-qt5
+  - sailfish-components-webview-qt5-popups
+  - sailfish-components-webview-qt5-pickers
 
 # All installed files
 Files:
